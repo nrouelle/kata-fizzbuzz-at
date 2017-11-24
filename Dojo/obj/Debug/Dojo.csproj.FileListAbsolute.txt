@@ -1,0 +1,15 @@
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\Dojo.dll
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\Dojo.pdb
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\Castle.Core.dll
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\Moq.dll
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\NFluent.dll
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\nunit.framework.dll
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\Castle.Core.xml
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\Moq.pdb
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\Moq.xml
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\NFluent.pdb
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\bin\Debug\nunit.framework.xml
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\obj\Debug\Dojo.csprojResolveAssemblyReference.cache
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\obj\Debug\Dojo.csproj.CoreCompileInputs.cache
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\obj\Debug\Dojo.dll
+C:\Users\nadege.rouelle\source\repos\Dojo\Dojo\obj\Debug\Dojo.pdb
